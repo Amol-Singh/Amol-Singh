@@ -2,7 +2,11 @@
 
 ###
 
-<h5 align="center">I’m a final-year Computer Engineering student and Full-Stack Developer who loves building web apps with the MERN stack and experimenting with AI.<br>I love solving problems on LeetCode and enjoy playing football to recharge and stay active. <br>Always curious to learn, collaborate, and turn ideas into real-world solutions.</h5>
+<h5 align="center">
+🎓 Final-year Computer Engineering student & Full-Stack Developer (MERN + AI) <br>
+⚡ Problem solver on LeetCode | ⚽ Football enthusiast <br>
+🌱 Always curious to learn & build real-world solutions
+</h5>
 
 ###
 
@@ -68,6 +72,10 @@
 
 ###
 
+<h2 align="center">Stats</h2>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amol-Singh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
   <br>
@@ -76,14 +84,4 @@
   <img src="https://github-profile-trophy.vercel.app?username=Amol-Singh&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-###
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amol-Singh/Amol-Singh/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amol-Singh/Amol-Singh/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Amol-Singh/Amol-Singh/output/pacman-contribution-graph.svg">
-</picture>
-
-###
